@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SenseMe</string>
+    <string name="acce_text">Acceleration</string>
+    <string name="gyro_text">Gyroscope</string>
+    <string name="ori_text">Orientation</string>
+    <string name="mag_text">Magnetic Field</string>
+</resources>
